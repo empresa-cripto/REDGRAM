@@ -1,0 +1,31 @@
+REDGRAM+ — SITE INSTITUCIONAL
+================================
+
+COMO ABRIR NO VS CODE
+1. Extraia o arquivo ZIP para uma pasta do computador.
+2. Abra o Visual Studio Code.
+3. Clique em File > Open Folder e selecione a pasta "redgram_site".
+4. Abra o arquivo index.html.
+5. Para visualizar, clique duas vezes em index.html no explorador de arquivos
+   ou use a extensão Live Server no VS Code (botão "Go Live").
+
+ARQUIVOS
+- index.html: estrutura e conteúdo do site.
+- style.css: cores, layout e responsividade.
+- script.js: menu, formulário de inscrição, proposta e chatbot.
+- assets/logo-redgram.jpg: logo enviada.
+- assets/divulgacao-redgram.jpg: arte de divulgação enviada.
+
+FUNCIONALIDADES
+- Formulário de inscrição: prepara uma mensagem e abre o WhatsApp informado.
+- Assinatura da proposta: registra manifestação de interesse e abre o WhatsApp.
+  Não é assinatura eletrônica com validade jurídica nem substitui contrato.
+- Chatbot: responde automaticamente dúvidas frequentes no próprio navegador.
+
+IMPORTANTE
+O site é estático. Os formulários não salvam dados em banco de dados nem enviam
+mensagens automaticamente: o usuário precisa concluir o envio no WhatsApp.
+A mensalidade online informada é R$ 150,00 (monitoria individual, aula de
+50 minutos, uma vez por semana). A correção avulsa é R$ 30,00.
+Como não foi informado preço para a modalidade presencial, o site orienta
+o visitante a consultar disponibilidade e valores com a equipe.
